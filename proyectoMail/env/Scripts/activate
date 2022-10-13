@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\MISION - TIC 2022\CICLO 3\proyectoMail\env"
+VIRTUAL_ENV="C:\MISION - TIC 2022\CICLO 3\Sprint_3 GIT\mintic-sprint3\proyectoMail\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
